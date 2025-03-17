@@ -1,6 +1,8 @@
 Pyladies Airflow Project - ETL Diario Oficial de Mossoró
 ========
 
+### [Link da apresentação](https://www.canva.com/design/DAGhv5q6zfM/oNUhFTEIaF4FGdub1MFp7Q/edit?utm_content=DAGhv5q6zfM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 #### Dentro dos slides da apresentação você encontra o tutorial em passos de como criar e rodar esse projeto localmente.
 
 Projeto criado pra uma apresentação no Meetup Pyladies Florianópolis/SC.
